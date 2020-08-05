@@ -10,7 +10,7 @@ function setup() {
     background(255, 204, 100);
 
     translate(width / 2, height / 2);
-    rotate(PI / 3.0);
+    rotate(PI / 35);
 
     quad(38, 31, 86, 20, 69, 63, 30, 76);
     
